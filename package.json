@@ -1,0 +1,13 @@
+{
+  "author": "yuanyuyuan",
+  "scripts": {
+    "build": "rimraf dist && pnpm -r run build"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^0.39.0",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.3",
+    "playwright-chromium": "^1.30.0",
+    "rimraf": "^4.1.2"
+  }
+}
