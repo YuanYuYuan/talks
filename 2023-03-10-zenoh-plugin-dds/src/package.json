@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build --base /2023/zenoh-deep-dive/ --out ../../dist/2023/zenoh-deep-dive",
+    "export": "slidev export --output ../zenoh-plugin-dds.pdf"
+  }
+}
